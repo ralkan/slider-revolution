@@ -1,0 +1,9 @@
+node_modules
+
+# Mac file & Files
+.DS_Store
+.tmp
+*.swo
+*.swp
+*.swn
+*.swm
